@@ -17,6 +17,7 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
+    font-size: 1.0em;
 }
 
 a {
@@ -33,7 +34,18 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
+h2 {
+    text-decoration: underline;
+    margin-bottom: 1.5rem;    
+}
+
 p {
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #333;
+}
+
+li {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
@@ -50,5 +62,30 @@ ul.posts {
 }
 
 ul.posts li {
-    list-style: none;
+    list-style: none; 
+    font-size: 1.0em;
+}
+
+.small-plot-div {
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+strong {
+    font-weight: bold;
+}
+
+/* Overriding bootstrap css */
+
+.container {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+p {
+   margin-bottom: 1.5rem; 
+}
+
+.small-plot {
+    width: 600px;
 }
