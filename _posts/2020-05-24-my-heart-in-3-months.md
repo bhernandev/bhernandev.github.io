@@ -16,7 +16,7 @@ I think most would agree that starting your first job straight out of college ca
 	<img src="/assets/blog/briheart/07_26_scatter_plot.png" class="img-fluid small-plot">
 </div>
 
-Now, if the scatterplot looks like a mess - that's because it is. But, here are the things I noticed:
+Now, if the scatterplot looks like a mess - that's because it is. But here are the things I noticed:
 
 - My heart rate and stress peaked as I arrived at the office around 9am.
 - As I grew more and more comfortable throughout the day my heart rate slowed.
@@ -35,7 +35,7 @@ Anyway, *back to the heart data*.
 
 ## Fitness Gurus Hate Him - This One Weird Trick Will Lower Your Heart Rate
 
-My workout buddies can attest that I am *terrible* at going to the gym consistently. But, I can proudly say that during these 3 months, I was actually going to gym fairly regularly. I was also eating healthier portions and making cleaner decisions at mealtime \-\- like incorporating more greens and choosing white meats over the vastly superior, delicious red variety. In addition to losing 10lbs, which I have since gained back, I noticed that these choices seemed to have caused my average heart rate to improve during this time:
+My workout buddies can attest that I am *terrible* at going to the gym consistently. But I can proudly say that during these 3 months, I was actually going to gym fairly regularly. I was also eating healthier portions and making cleaner decisions at mealtime \-\- like incorporating more greens and choosing white meats over the vastly superior, delicious red variety. In addition to losing 10lbs, which I have since gained back, I noticed that these choices seemed to have caused my average heart rate to improve during this time:
 
 <img src="/assets/blog/briheart/avg_HR_over_time.png" class="img-fluid">
 
@@ -61,7 +61,7 @@ I was curious to see exactly when my heart rate was at its highest. There were t
 	</div>
 </div>
 
-As stressful as these days were, neither of them heart rates even close to my highest from this time \-\- a heart rate of 194 bpm. That honor belongs to August 30th, 2018, an unsuspecting Thursday in the middle of a work week no less:
+As stressful as these days were, neither of their max heart rates even came close to the highest I experienced during these 3 months \-\- a heart rate of 194 bpm. That honor belongs to August 30th, 2018, an unsuspecting Thursday in the middle of a work week no less:
 
 <div class="row small-plot-div">
 	<div class="col-lg">
@@ -77,7 +77,7 @@ I had no idea what could have possibly happened on that day. From the scatterplo
 *It was the day of a new-hire party cruise*
 
 Suddenly everything made sense. This heart rate came from me attempting to breakdance in front of my peers in the middle of the dreaded dance circle. Here was a potent combination of some of the top factors that could spike my heart rate.
-Alcohol, physical activity, social pressure - it was all there and the end result was a heart rate of 194 bpm. A heart rate over double the median for that day.
+Alcohol, physical activity, social pressure \-\- it was all there, and the end result was a heart rate of 194 bpm. A heart rate over double the median for that day.
 
 I ended up getting props for the "breakdancing" I did. Albeit a small sample size of feedback (\~3 people said they were impressed), I was relieved to hear it. Looking back, it's times like these that always remind me that I really shouldn't take myself too seriously, especially at parties. It's okay to let loose from time to time and it's almost always better to try to have fun than worry about my image. 
 
@@ -86,7 +86,7 @@ With that said, I really need to re-watch some tutorials on backspins because, f
 \-\-
 
 
-This ended up being more of a reflection on 2018 than I thought it would be \-\- probably because heart rate data isn't really that interesting by itself \-\- but I still had a lot of fun writing this and looking into the data. I hope that you enjoyed and I hope that you found something of value from either the analysis or my musings. If you're interested in collecting data like I did, then definitely check out the Motiv Ring or other smart rings. All of the code for the data cleaning and analysis can be found [here](https://github.com/bhernandev/BriHeart). 
+This ended up being more of a reflection on 2018 than I thought it would be \-\- probably because heart rate data isn't really that interesting by itself \-\- but I still had a lot of fun writing this and looking into the data. I hope that you enjoyed, and I hope that you found something of value from either the analysis or my musings. If you're interested in collecting data like I did, then definitely check out the Motiv Ring or other smart rings. All of the code for the data cleaning and analysis can be found [here](https://github.com/bhernandev/BriHeart). 
 
 Thanks so much for reading and an even greater thanks to my friend Maxi for the awesome gift!
 
