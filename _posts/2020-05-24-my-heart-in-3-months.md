@@ -79,7 +79,7 @@ I had no idea what could have possibly happened on that day. From the scatterplo
 Suddenly everything made sense. This heart rate came from me attempting to breakdance in front of my peers in the middle of the dreaded dance circle. Here was a potent combination of some of the top factors that could spike my heart rate.
 Alcohol, physical activity, social pressure - it was all there and the end result was a heart rate of 194 bpm. A heart rate over double the median for that day.
 
-In the end I ended up getting props for the "breakdancing" I did. Albeit a small sample size of feedback (\~3 people said they were impressed), I was relieved to hear it. Looking back, it's times like these that always remind me that I really shouldn't take myself too seriously, especially at parties. It's okay to let loose from time to time and it's almost always better to try to have fun than worry about my image. 
+I ended up getting props for the "breakdancing" I did. Albeit a small sample size of feedback (\~3 people said they were impressed), I was relieved to hear it. Looking back, it's times like these that always remind me that I really shouldn't take myself too seriously, especially at parties. It's okay to let loose from time to time and it's almost always better to try to have fun than worry about my image. 
 
 With that said, I really need to re-watch some tutorials on backspins because, frankly, I disrespected breakdancing as a whole that day.
 
