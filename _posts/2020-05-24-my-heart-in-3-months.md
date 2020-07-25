@@ -89,8 +89,3 @@ With that said, I really need to re-watch some tutorials on backspins because, f
 This ended up being more of a reflection on 2018 than I thought it would be \-\- probably because heart rate data isn't really that interesting by itself \-\- but I still had a lot of fun writing this and looking into the data. I hope that you enjoyed, and I hope that you found something of value from either the analysis or my musings. If you're interested in collecting data like I did, then definitely check out the Motiv Ring or other smart rings. All of the code for the data cleaning and analysis can be found [here](https://github.com/bhernandev/BriHeart). 
 
 Thanks so much for reading and an even greater thanks to my friend Maxi for the awesome gift!
-
-<br> 
-
-Bet, <br>
-Brian H.

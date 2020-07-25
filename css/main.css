@@ -5,6 +5,8 @@ html {
 body {
     margin: 60px auto;
     width: 70%;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-weight: 400;
 }
 
 nav ul, footer ul {
