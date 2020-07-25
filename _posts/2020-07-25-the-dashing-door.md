@@ -16,7 +16,7 @@ I present to you: The Dashing Door
 <br>
 
 <div class="small-plot-div">
-	<img src="/assets/blog/doordash/4.jpg" class="img-fluid small-plot">
+	<img src="/assets/blog/doordash/4.JPG" class="img-fluid small-plot">
 </div>
 
 <p style="margin-bottom:0px;"><b>Eat Fresh</b></p>
@@ -28,7 +28,7 @@ A photo of a Subway order hanging from my mailbox. The muted colors of the backg
 <br>
 
 <div class="small-plot-div">
-	<img src="/assets/blog/doordash/5.jpg" class="img-fluid small-plot">
+	<img src="/assets/blog/doordash/5.JPG" class="img-fluid small-plot">
 </div>
 
 <p style="margin-bottom:0px;"><b>Dawn of Dusk</b></p>
@@ -40,7 +40,7 @@ A photo of a brown paper bag bathing in the final rays of the setting sun \-\- h
 <br>
 
 <div class="small-plot-div">
-	<img src="/assets/blog/doordash/8.jpg" class="img-fluid small-plot">
+	<img src="/assets/blog/doordash/8.JPG" class="img-fluid small-plot">
 </div>
 
 <p style="margin-bottom:0px;"><b>Boundaries</b></p>
@@ -52,7 +52,7 @@ Taken from behind my front gate. The large depth of field flattens the image and
 <br>
 
 <div class="small-plot-div">
-	<img src ="/assets/blog/doordash/11.jpg" class="img-fluid small-plot">
+	<img src ="/assets/blog/doordash/11.JPG" class="img-fluid small-plot">
 </div>
 
 <p style="margin-bottom:0px;"><b>Derangement</b></p>
@@ -64,7 +64,7 @@ This piece depicts an unmarked brown bag with an underpinning of insanity achiev
 <br>
 
 <div class="small-plot-div">
-	<img src="/assets/blog/doordash/12.jpg" class="img-fluid small-plot">
+	<img src="/assets/blog/doordash/12.JPG" class="img-fluid small-plot">
 </div>
 
 <p style="margin-bottom:0px;"><b>The Stranger</b></p>
@@ -76,7 +76,7 @@ Deliberately taken above the fencing of my home, this piece both celebrates and 
 <br>
 
 <div class="small-plot-div">
-	<img src="/assets/blog/doordash/15.jpg" class="img-fluid small-plot">
+	<img src="/assets/blog/doordash/15.JPG" class="img-fluid small-plot">
 </div>
 
 <p style="margin-bottom:0px;"><b>Gratitude</b></p>
@@ -90,7 +90,7 @@ THANK YOU
 <br>
 
 <div class="small-plot-div">
-	<img src="/assets/blog/doordash/17.jpg" class="img-fluid small-plot">
+	<img src="/assets/blog/doordash/17.JPG" class="img-fluid small-plot">
 </div>
 
 <p style="margin-bottom:0px;"><b>Unfamiliar</b></p>
