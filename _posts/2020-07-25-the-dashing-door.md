@@ -3,10 +3,9 @@ layout: post
 title: "The Dashing Door"
 date: 2020-07-25
 ---
+I've been using DoorDash regularly for the past \~5 months because of the Covid-19 outbreak. Now, after all that time, I noticed that my text messages were filled with photos from my DoorDash drivers. For the uninitiated, some DoorDash drivers will text you pictures of your orders for confirmation, so I expected to have so many. What I didn't expect was that a good number of their photos seemed really artistic. So I decided to select the very best ones and compile them into an online art collection. 
 
-Since the Covid-19 outbreak started, I've become quite the doordash power user and I noticed that my text messages were absolutely filled with photos from my doordash drivers. Now, for the uninitiated, some doordash drivers will text you a picture of your delivered order as a form of confirmation, so this was to be expected after \~5 months of regular use. What I didn't expect was that some of their photos were actually weirdly artistic and evocative. So, I took it upon myself to select the very best ones and compile them into an online art gallery for your viewing pleasure. 
-
-I present to you: The Dashing Door
+I present to you, dear reader, The Dashing Door.
 
 
 ##### *Note: With the exception of cropping to preserve some anonymity, these photos are otherwise in their original forms and orientation.*
@@ -22,7 +21,7 @@ I present to you: The Dashing Door
 <p style="margin-bottom:0px;"><b>Eat Fresh</b></p>
 <p style="font-size:1.0em;">May 15, 2020</p>
 
-A photo of a Subway order hanging from my mailbox. The muted colors of the background give off a dystopian vibe and contrast with the vibrant colors of the revamped Subway logo.  
+A Subway order delicately hanging from my mailbox. The muted background colors give way to the vibrant, revamped Subway logo.
 
 <hr>
 <br>
@@ -34,7 +33,7 @@ A photo of a Subway order hanging from my mailbox. The muted colors of the backg
 <p style="margin-bottom:0px;"><b>Dawn of Dusk</b></p>
 <p style="font-size:1.0em;">May 16, 2020</p>
 
-A photo of a brown paper bag bathing in the final rays of the setting sun \-\- hinting at the fleeting nature of hope.
+A brown paper bag bathing in the final rays of the setting sun \-\- hinting at the fleeting nature of hope.
 
 <hr>
 <br>
@@ -46,7 +45,7 @@ A photo of a brown paper bag bathing in the final rays of the setting sun \-\- h
 <p style="margin-bottom:0px;"><b>Boundaries</b></p>
 <p style="font-size:1.0em;">June 2, 2020</p>
 
-Taken from behind my front gate. The large depth of field flattens the image and shortens the distance from the gate to the front door.
+By utilizing a large depth of field to flatten the image, this piece argues against the efficacy of our man-made boundaries.
 
 <hr>
 <br>
@@ -101,6 +100,8 @@ A photo of an order at the wrong house.
 <hr>
 <br>
 
-As much as this post is one overly long joke, it actually did help me realize how much work goes into online art exhibitions. Trying to write thoughtful descriptions gave me a lot of trouble \-\- and this was only parody! Even things like page formatting and selecting the pieces were more difficult than I anticipated. My genuine respect goes out to those of you who make *actual* online art exhibitions a reality. You play the woefully underappreciated role of promoting the arts in our society. For those curious, I referenced online pieces from the MoMA website and you should definitely check them out.
+As much as this post is one overly long joke, writing this actually did help me realize the amount of work that goes into online art collections. Writing thoughtful descriptions gave me a lot of trouble \-\- and this was only parody! Even things like page formatting and vetting the pieces were more difficult than I anticipated. My genuine respect goes out to those of you who make *actual* online art collections a reality. You play the woefully undervalued role of promoting the arts in our society and I truly appreciate that now more than ever. 
+
+For those curious, I referenced online pieces from the [MoMA website](https://www.moma.org/), which you should definitely visit.
 
 Thanks so much for reading!
