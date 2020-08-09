@@ -102,6 +102,4 @@ A photo of an order at the wrong house.
 
 As much as this post is one overly long joke, writing this actually did help me realize the amount of work that goes into online art collections. Writing thoughtful descriptions gave me a lot of trouble \-\- and this was only parody! Even things like page formatting and vetting the pieces were more difficult than I anticipated. My genuine respect goes out to those of you who make *actual* online art collections a reality. You play the woefully undervalued role of promoting the arts in our society and I truly appreciate that now more than ever. 
 
-For those curious, I referenced online pieces from the [MoMA website](https://www.moma.org/), which you should definitely visit.
-
-Thanks so much for reading!
+For those curious, I referenced online pieces from the [MoMA website](https://www.moma.org/), which you should definitely visit. If you enjoyed, feel free to [subscribe](https://tinyletter.com/bhernandev) for email updates on my latest posts. Thanks so much for reading!
