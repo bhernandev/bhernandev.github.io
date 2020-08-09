@@ -3,7 +3,7 @@ layout: default
 title: Brian's Blog
 ---
 <h1>{{ page.title }}</h1>
-<p>This is where I share my thoughts on various topics. You can join the mailing list for email updates on my latest posts <a href="https://tinyletter.com/bhernandev">here</a>.</p>
+<p>This is where I share my thoughts on various topics. You can join the mailing list <a href="https://tinyletter.com/bhernandev">here</a>.</p>
 <ul class="posts">
   {% for post in site.posts %}
     <li><span>{{ post.date | date: "%B %-d, %Y" }}</span> — <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }} </a></li>
