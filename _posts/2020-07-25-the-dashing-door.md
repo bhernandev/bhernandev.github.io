@@ -2,6 +2,8 @@
 layout: post
 title: "The Dashing Door"
 date: 2020-07-25
+description: "An online art collection of DoorDash pictures."
+image: "/assets/blog/doordash/15.JPG"
 ---
 I've been using DoorDash regularly for the past \~5 months because of the Covid-19 outbreak. Now, after all that time, I noticed that my text messages were filled with photos from my DoorDash drivers. For the uninitiated, some DoorDash drivers will text you pictures of your orders for confirmation, so I expected to have so many. What I didn't expect was that a good number of their photos seemed really artistic. So I decided to select the very best ones and compile them into an online art collection. 
 

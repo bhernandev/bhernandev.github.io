@@ -2,6 +2,8 @@
 layout: post
 title: "My Heart in 3 Months"
 date: 2020-05-24
+description: "An analysis of 3 months of personal heart rate data."
+image: "/assets/blog/briheart/07_26_scatter_plot.png"
 ---
 
 Two years ago, a close friend of mine gifted me with a [Motiv Ring](https://mymotiv.com/) for my birthday. I was excited to be able to record my heart rate 24/7 since a ring seemed much easier wear all day than [a](https://www.samsung.com/us/mobile/wearables/smartwatches/) [freaking](https://www.fitbit.com/us/home) [watch](https://www.apple.com/watch/). I wore it every day for 3 months (Jul - Oct, 2018) and amassed a huge dataset of \~1M records. What follows are a few interesting tidbits I could find in the data as well some personal reflections on them.
